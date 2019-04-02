@@ -93,7 +93,7 @@ public class LoginController extends MultiActionController
 			e.printStackTrace();
 			System.exit(0);
 		}
-		System.out.println("Opened database successfully");
+		System.out.println("Opened database successfully...thank you ");
 
 		return mv;
 	}// method end
